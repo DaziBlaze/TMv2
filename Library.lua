@@ -49,7 +49,7 @@ local Library = {
 
     Notifications = {},
 
-    ToggleKeybind = Enum.KeyCode.RightShift,
+    ToggleKeybind = Enum.KeyCode.RightControl,
     TweenInfo = TweenInfo.new(0.1, Enum.EasingStyle.Quad, Enum.EasingDirection.Out),
     NotifyTweenInfo = TweenInfo.new(0.25, Enum.EasingStyle.Quad, Enum.EasingDirection.Out),
 
