@@ -5,3 +5,5 @@
 -Improved Loader security
 -Optimized Loader Authentication
 -Added a pretty Icon
+-Added a reporting and suggesting system connected to discord
+-Added constant status check
