@@ -1,9 +1,5 @@
--Updated to version: 1.0.3
--Added fancy sounds
--Improved UI
--Reworked Loader
--Improved Loader security
--Optimized Loader Authentication
--Added a pretty Icon
--Added a reporting and suggesting system connected to discord
--Added constant status check
+-Updated to version 1.0.5
+-Added Keybind support for some modules
+-Added VC reconnect/unban (If disconnected)
+-Changed UI accent color to red
+-Added UI customization in Settings tab
