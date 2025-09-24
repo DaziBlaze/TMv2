@@ -1,5 +1,4 @@
--Updated to version 1.0.5
--Added Keybind support for some modules
--Added VC reconnect/unban (If disconnected)
--Changed UI accent color to red
--Added UI customization in Settings tab
+-Updated to version 1.0.6
+-Added sounds for when you switch on stuff
+-Additional watermark info (Top Left)
+-Added a rainbow mode toggle (Continuously cycles the accent color)
